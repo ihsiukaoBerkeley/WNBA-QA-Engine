@@ -21,6 +21,10 @@ The model would then generate context-aware responses based on user inputs and i
 #### Current Version (Text-to-SQL Chain with Query Examples and Table Descriptions, in langchain_text2sql_wExample_wTableDesc.ipynb):
 <img width="741" alt="text2sql_wExample_wTableInfo" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/64df79dc-faf1-4f8c-8372-c571db0abe15">
 
+#### V3 (Text-to-SQL Chain with Query Examples, Table Descriptions, and Table Context, in langchain_text2sql_wExample_wTableDesc_wContext.ipynb):
+<img width="823" alt="text2sql_wExample_wTableInfo_wContext" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/a0413c48-1759-4b65-b331-4040491ce1a9">
+
+
 #### V2 (Text-to-SQL Chain with Query Examples, in langchain_text2sql_wExample.ipynb):
 <img width="741" alt="text2sql_wExample" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/06f9661a-ef8d-4b97-bea2-50ebfa9ecb94">
 
