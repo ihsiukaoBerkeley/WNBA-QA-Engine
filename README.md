@@ -18,11 +18,11 @@ The model would then generate context-aware responses based on user inputs and i
 - AWS DynamoDB
 
 ### Workflow Diagram:
-#### Current Version (Text-to-SQL Chain with Query Examples and Table Descriptions):
+#### Current Version (Text-to-SQL Chain with Query Examples and Table Descriptions, in langchain_text2sql_wExample_wTableDesc.ipynb):
 <img width="741" alt="text2sql_wExample_wTableInfo" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/64df79dc-faf1-4f8c-8372-c571db0abe15">
 
-#### V2 (Text-to-SQL Chain with Query Examples):
+#### V2 (Text-to-SQL Chain with Query Examples, in langchain_text2sql_wExample.ipynb):
 <img width="741" alt="text2sql_wExample" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/06f9661a-ef8d-4b97-bea2-50ebfa9ecb94">
 
-#### V1 (Text-to-SQL Chain):
+#### V1 (Text-to-SQL Chain, in langchain_text2sql.ipynb):
 <img width="746" alt="text2sql_wHistory" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/2e52649f-821c-4ade-87b7-70f75265f16f">
