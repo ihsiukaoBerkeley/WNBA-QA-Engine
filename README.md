@@ -4,8 +4,9 @@
 A RAG model using LangChain that asks ChatGPT to generate SQL query to fetch information stored in AWS S3 through AWS Athena based on user inputs.
 The model would then generate context-aware responses based on user inputs and information stored in the database.
 
-### Prototype (Streamlit UI hosted on AWS EC2):
-![image (2)](https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/f0380174-ef7d-47a5-b0c2-d2d562deba8e)
+### Prototype (Streamlit UI hosted on AWS EC2: http://wnba.hoops-iq.com/):
+<img width="477" alt="Screenshot 2024-07-10 at 7 52 16 PM" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/41d4148d-05a8-4541-9fe5-9d69c5180b6a">
+
 
 
 ### Tools:
