@@ -1,0 +1,22 @@
+{
+  "table_name": "wnba_player_info",
+  "table_description": "Player level dataset providing career level attributes on players within the WNBA dataset. Use this to join to the play-by-play/player box data to join on athlete ID, and for any questions on career level information on players within the eligible time period.",
+  "values": [
+    {"column_name": "athlete_id", "column_type": "int", "column_description": "Unique identifier for each athlete"},
+    {"column_name": "athlete_name", "column_type": "string", "column_description": "The full name of the athlete"},
+    {"column_name": "athlete_birthdate", "column_type": "string", "column_description": "The birthdate of the athlete"},
+    {"column_name": "athlete_college", "column_type": "string", "column_description": "The college the athlete attended"},
+    {"column_name": "career_gp", "column_type": "double", "column_description": "The total number of games played by the athlete in their career"},
+    {"column_name": "career_min", "column_type": "double", "column_description": "The total minutes played by the athlete in their career"},
+    {"column_name": "career_pts", "column_type": "double", "column_description": "The total points scored by the athlete in their career"},
+    {"column_name": "career_reb", "column_type": "double", "column_description": "The total rebounds by the athlete in their career"},
+    {"column_name": "career_ast", "column_type": "double", "column_description": "The total assists by the athlete in their career"},
+    {"column_name": "career_stl", "column_type": "double", "column_description": "The total steals by the athlete in their career"},
+    {"column_name": "career_blk", "column_type": "double", "column_description": "The total blocks by the athlete in their career"},
+    {"column_name": "career_to", "column_type": "double", "column_description": "The total turnovers by the athlete in their career"},
+    {"column_name": "career_fg_perc", "column_type": "double", "column_description": "The field goal percentage of the athlete in their career"},
+    {"column_name": "career_threep_perc", "column_type": "double", "column_description": "The three-point field goal percentage of the athlete in their career"},
+    {"column_name": "career_ft_perc", "column_type": "double", "column_description": "The free throw percentage of the athlete in their career"},
+    {"column_name": "career_pf", "column_type": "double", "column_description": "The total personal fouls by the athlete in their career"}
+  ]
+}
