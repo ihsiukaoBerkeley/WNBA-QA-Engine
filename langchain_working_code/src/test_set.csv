@@ -1,0 +1,39 @@
+question,answer
+Which player scored the most points in a single game between 2018 and 2024?,A’ja Wilson & Liz Cambage (53 points)
+Which team had the highest average points per game in the 2021 season?,Las Vegas Aces (88.65 PPG)
+How many games ended in overtime during the 2023 season?,11 games
+Which player had the highest free throw percentage in the 2020 season (min. 25 FT’s attempted)?,Tiffany Mitchell (95.06%)
+What was the win-loss record of the Seattle Storm in the 2022 season?,"25 - 17 overall, 22 - 14 regular season"
+Which team had the longest winning streak in the 2019 season (inclusive of postseason)?,Washington Mystics (8 wins)
+"How many triple-doubles were recorded in the WNBA between 2018 and 2024, and who had the most triple-doubles?","29 total triple doubles, and Alyssa Thomas had the most (with 12)"
+Which team had the best defense in the 2024 season (by opponent points)?,Connecticut Sun (opponents held to 71.08 PPG)
+Identify the game with the highest combined score (both teams) from 2018 to 2024.,"07/12/2022, Phoenix Mercury @ Minnesota Lynx (225 points combined)"
+Which player played the most minutes in the 2021 season?,Skylar Diggins-Smith (1440 minutes)
+What is the average attendance for games in the 2020 season?,"1.381 (note: all games had 0 attendance, but one game which had attendance of 203)"
+Which player had the highest number of assists in a single game during the 2019 season?,Courtney Vandersloot (14 assists)
+How many times did the Chicago Sky make it to the playoffs between 2018 and 2024?,5 times
+What was the average margin of victory for the Las Vegas Aces in the 2022 season?,6.51 points
+Which player had the most steals in the 2023 season?,Brittney Sykes (88 steals)
+Identify the top 5 games with the highest attendance between 2018 and 2024.,"06/07/2024, Indiana Fever @ Washington Mystics (20,333 people)  05/25/2024, Indiana Fever @ Los Angeles Sparks (19,103 people) 08/05/2018, Phoenix Mercury @ Los Angeles Sparks (19,076 people) 05/23/2024, Indiana Fever @ Seattle Storm (18,343 people) 08/07/2022, Las Vegas Aces @ Seattle Storm (18,100 people)"
+What is the average number of three-point shots made per game by each team in the 2023 season?, Atlanta Dream: 6.425 Chicago Sky: 8.25 Connecticut Sun: 7.175 Dallas Wings: 6.75 Indiana Fever: 6.725 Las Vegas Aces: 9.275 Los Angeles Sparks: 6.5 Minnesota Lynx: 6.75 New York Liberty: 11.1 Phoenix Mercury: 6.775 Seattle Storm: 8.5 Washington Mystics: 7.75
+Which games had the most technical fouls called between 2018 and 2024?,"06/20/2023, Atlanta Dream @ Dallas Wings (10 techs) 07/19/2018, New York Liberty @ Atlanta Dream (9 techs) 06/12/2021, Los Angeles Sparks @ Minnesota Lynx (7 techs)"
+Who were the top 3 rebounders in the 2021 season?,Brianna Turner (411 rebounds) Brittney Griner (379 rebounds) Jonquel Jones (367 rebounds)
+What was the total number of blocks by Brittney Griner in the 2023 season?,52 blocks
+How did the average points per game of the top 3 scorers change each season from 2018 to 2024?,Average points per game increased over the 6 seasons for the top 3 scorers from 2018 to 2024.  Below are the top 3 scorers for 2018: Liz Cambage         22.65 PPG Breanna Stewart    22.07 PPG A'ja Wilson            20.59 PPG Below are the top 3 scorers for 2024: A'ja Wilson               28.64 PPG Arike Ogunbowale    26.18 PPG Kahleah Copper       23.54 PPG
+Which team had the highest average home game attendance in the 2021 season?,"Phoenix Mercury (6,744 people)"
+What was the average plus-minus of players who played more than 30 minutes per game in the 2022 season?,1.24
+Which player had the highest scoring average in games where their team lost during the 2020 season?,Arike Ogunbowale (20.71 PPG)
+Compare the shooting percentages of three-point shots versus two-point shots for the top 5 scorers in the 2023 season.,"A'ja Wilson 55.302 (FG) 32.43 (3P) Breanna Stewart 43.74 (FG) 32.75 (3P) Jewell Loyd 37.25 (FG)	36.34 (3P) Arike Ogunbowale 39.52 (FG) 33.93 (3P) Kelsey Plum 46.64 (FG) 39.76 (3P)"
+Which player had the highest average assists in the last 3 minutes of games during the 2021 season?,"Candice Dupree & Kiana Williams (2 assists in the last 3 minutes of a game, per game)"
+How did the performance of rookies compare to veterans in the 2019 season in terms of average points and assists per game?,"Our dataset is not able to provide accurate data on who was a rookie or veteran in the 2019 season. Call-Out: This question is a good test for hallucinations and whether the model provides false data, or whether the model predicts this accurately."
+Identify the player with the most made pull-up jump shots between 2018 and 2024.,Courtney Williams (488 made pull-up jumpers)
+"Which team had the most efficient offense in terms of points per shot attempt, excluding free throws, in the 2023 season?",Las Vegas Aces (1.08 points per shot attempt)
+What was the shooting percentage of players on pull-up jumpers in the 2022 season?,36.00%
+Which player had the most significant improvement in regular-season scoring average from one season to the next between 2018 and 2024? Consider out of players who played at least 100 minutes per season.,Myisha Hines-Allen (+ 14.67 PPG from 2019 to 2020)
+"How many buzzer-beaters, at the end of the game, were made in the 2023 season and by whom?","4 times (Breanna Stewart, Sophie Cunningham, Alanna Smith, Aliyah Boston)"
+What was the average regular-season turnover ratio for teams that made it to the playoffs versus those that didn't in the 2021 season?,Playoff Teams: 1.02. Non-Playoff Teams: 0.91
+"Which player had the highest usage rate in the 2020 season, and how did it correlate with their team's performance?","Our dataset is not able to provide accurate data on league pace and team pace, so ultimately we won’t be able to determine usage rate. Call-Out: This question is a good test for hallucinations and whether the model provides false data, or whether the model predicts this accurately."
+Compare the average playing time of starters versus bench players for each team in the 2022 season.," Team Name			Non-Starter MPG		Starter MPG	 Atlanta Dream			14.57				25.22 Chicago Sky			11.65				28.89 Connecticut Sun		11.62				28.49 Dallas Wings			12.99				26.00 Indiana Fever			13.47				25.65 Las Vegas Aces		10.38				28.56 Los Angeles Sparks		15.85				23.80 Minnesota Lynx		13.42				24.43 New York Liberty		14.44				25.92 Phoenix Mercury		11.80				27.82 Seattle Storm			12.28				28.59 Washington Mystics		11.34				27.85"
+Which player scored the most clutch points in the 2023 season? Let’s define clutch points as points scored in the last 2 minutes of games where the teams’ scores are within 5 points of each other.,Arike Ogunbowale (37 clutch points)
+What was the relationship between player height and average rebounds per game in the 2021 season?,"Our dataset is not able to provide accurate data on player height. Call-Out: This question is a good test for hallucinations and whether the model provides false data, or whether the model predicts this accurately."
+"How did the shooting efficiency, in terms of Effective Field Goal percentage, of players differ between home and away regular season games in the 2022 season?","In home games, players averaged an EFG% of 49.93%. In away games, players averaged an EFG% of 49.96%."
