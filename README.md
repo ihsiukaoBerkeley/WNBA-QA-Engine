@@ -16,6 +16,15 @@ The model would then generate context-aware responses based on user inputs and i
 - AWS EC2
 - AWS DynamoDB
 
+#### SOTA LLMs Evalution $ Number of Questions Answered Correctly - Hallucinations \over Total Number of Questions (=38) $:
+| Model  | Baseline | QA Engine | 
+| -------| ------- | --------- | 
+| GPT 3.5 Turbo | -58% (-25) | 16% (-13) |
+| GPT 4 Turbo | -11% (-12) | 45% (-9) |
+| GPT 4o | -24% (-18) | 47% (-9) |
+| GPT 4o mini | -32% (-21) | 42% (-9) |
+| Claude 3.5 Sonnet | 0% (-8) | 45% (-10) |
+
 ### Workflow Diagram:
 #### Current Version (V5) (Text-to-SQL Chain with Query Examples and Table Descriptions with Multi-Modality, in langchain_text2sql_wExample_wTableDesc_MultiModal.ipynb):
 <img width="546" alt="Screenshot 2024-07-30 at 11 36 45 PM" src="https://github.com/user-attachments/assets/6386bd8a-d928-478b-9a20-ea7bce8e7eec">
