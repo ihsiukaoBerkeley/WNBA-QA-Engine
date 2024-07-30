@@ -16,7 +16,9 @@ The model would then generate context-aware responses based on user inputs and i
 - AWS EC2
 - AWS DynamoDB
 
-#### SOTA LLMs Evalution $ Number of Questions Answered Correctly - Hallucinations \over Total Number of Questions (=38) $:
+#### SOTA LLMs Evalution:
+(Number of Questions Answered Correctly - Hallucinations) / Total Number of Questions (=38)
+
 | Model  | Baseline | QA Engine | 
 | -------| ------- | --------- | 
 | GPT 3.5 Turbo | -58% (-25) | 16% (-13) |
