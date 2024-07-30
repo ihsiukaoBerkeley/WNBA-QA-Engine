@@ -5,9 +5,7 @@ A RAG model using LangChain that asks ChatGPT to generate SQL query to fetch inf
 The model would then generate context-aware responses based on user inputs and information stored in the database.
 
 ### Prototype (Streamlit UI hosted on AWS EC2: http://wnba.hoops-iq.com/):
-<img width="477" alt="Screenshot 2024-07-10 at 7 52 16 PM" src="https://github.com/ihsiukaoBerkeley/WNBA-QA-Engine/assets/117419224/41d4148d-05a8-4541-9fe5-9d69c5180b6a">
-
-
+<img width="263" alt="Screenshot 2024-07-31 at 12 03 24 AM" src="https://github.com/user-attachments/assets/943270a4-5e73-406b-9384-b056c7f13afe">
 
 ### Tools:
 - LangChain
